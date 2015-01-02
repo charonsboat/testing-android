@@ -1,4 +1,4 @@
 testing-android
 ===============
 
-Just a testing repo.
+Just a testing repo for android development.
